@@ -1,5 +1,5 @@
 var defaultSettings = {
-    newsHosts: ["nytimes.com", "theguardian.com"]
+    newsHosts: ["nytimes.com", "theguardian.com", "sciencemag.org", "nature.com"]
 };
 
 function onError(e) { console.error(e); }
