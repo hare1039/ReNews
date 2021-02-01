@@ -2,7 +2,7 @@
     "description": "ReNews",
     "manifest_version": 2,
     "name": "ReNews",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "homepage_url": "https://github.com/hare1039/ReNews.git",
     "icons": {
         "48": "icons/refresh-svgrepo-com.svg"
@@ -20,6 +20,7 @@
     "permissions": [
         "browsingData",
         "notifications",
-        "storage"
+        "storage",
+        "tabs"
     ]
 }
