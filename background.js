@@ -1,5 +1,11 @@
 var defaultSettings = {
-    newsHosts: ["nytimes.com", "theguardian.com", "sciencemag.org", "nature.com"]
+    newsHosts: ["nytimes.com",
+                "theguardian.com",
+                "bostonglobe.com",
+                "sciencemag.org",
+                "wsj.com",
+                "washingtonpost.com",
+                "nature.com"];
 };
 
 function checkStoredSettings(storedSettings) {
